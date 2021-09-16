@@ -2,7 +2,7 @@
 
 My name is Arthur Kim and I am a data scientist with a background in healthcare 🏥. I was a healthcare consultant, but decided to switch into data science and attended Flatiron School Data Science Bootcamp (graduated Sept 2021). Now I am on a quest to find a job!
 
-Some of my technical skills include"
+Some of my technical skills include:
 * Python 🐍
 * Pandas 🐼
 * SQL 🗒️
