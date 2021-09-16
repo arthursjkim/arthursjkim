@@ -1,4 +1,13 @@
-### Hi there 👋
+# Welcome Coders, Collaboraters, and Conquerors
+
+My name is Arthur Kim and I am a data scientist with a background in healthcare 🏥. I was a healthcare consultant, but decided to switch into data science and attended Flatiron School Data Science Bootcamp (graduated Sept 2021). Now I am on a quest to find a job!
+
+Some of my technical skills include"
+* Python 🐍
+* Pandas 🐼
+* SQL 🗒️
+* NumPy 💯
+* Scikit-Learn ⚙️
 
 <!--
 **arthursjkim/arthursjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
