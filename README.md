@@ -16,6 +16,10 @@ Currently, I am participating in the [Tractor Supply’s “Life out Here” AI/
 * [Ian Sharff](https://github.com/iansharff)
 
 The current project is on optimizing price for the company's products using time series model.
+
+
+## Checkout out my blog! 
+[arthursjkim.medium.com](arthursjkim.medium.com)
 <!--
 **arthursjkim/arthursjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
