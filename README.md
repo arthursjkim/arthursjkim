@@ -1,4 +1,4 @@
-# Welcome Coders, Collaboraters, and Conquerors
+# Welcome Coders 💻, Collaboraters 🤝, and Conquerors ⚔️
 
 My name is Arthur Kim and I am a data scientist with a background in healthcare 🏥 based in NYC 🗽. I was a healthcare consultant for three years, but I decided to switch into data science and attended Flatiron School Data Science Bootcamp (graduated Sept 2021). Now I am on a quest to find a job!
 
@@ -24,9 +24,17 @@ The current [project](https://github.com/arthursjkim/tsc_pricing_optimization) i
 * Tableau
 
 ## Previous Project Highlights
-* [Hospital ICU Readmissions](https://github.com/arthursjkim/hospital_readmissions_nlp) 🚑
-* [Pneumonia Lung X-Ray Image Classification](https://github.com/arthursjkim/pneumonia_x-ray_classification) 🔍
-* [Telecommunication Firm’s Customer Churn](https://github.com/arthursjkim/SyriaTel_Customer_Churn) 📱
+__Hospital ICU Readmissions__ | [Repo](https://github.com/arthursjkim/hospital_readmissions_nlp)
+
+🚑 Classified patients who are likely to be readmitted to the hospital ICU within 30 days post discharge based on discharge notes and patient data including demographics and diagnoses
+
+__Pneumonia Lung X-Ray Image Classification__ | [Repo](https://github.com/arthursjkim/pneumonia_x-ray_classification)
+
+🔍 Identified X-ray images of pediatric patients’ lungs with pneumonia
+
+__Telecommunication Firm’s Customer Churn__ | [Repo](https://github.com/arthursjkim/SyriaTel_Customer_Churn)
+
+📱 Determined which customers of a telecommunication firm are likely to churn and provided recommendations to mitigate churn
 
 ## Checkout out My... 
 * [LinkedIn](https://www.linkedin.com/in/arthursjkim/)
