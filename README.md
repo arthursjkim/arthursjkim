@@ -36,7 +36,7 @@ __Telecommunication Firm’s Customer Churn__ | [Repo](https://github.com/arthur
 
 📱 Determined which customers of a telecommunication firm are likely to churn and provided recommendations to mitigate churn
 
-## Checkout out My... 
+## Checkout Out My... 
 * [LinkedIn](https://www.linkedin.com/in/arthursjkim/)
 * [Blog](arthursjkim.medium.com)
 * [Twtitter](https://twitter.com/ArthurSJKim)
