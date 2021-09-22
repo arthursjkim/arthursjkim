@@ -11,13 +11,13 @@ Some of my technical skills include:
 
 ## Currently... 
 ### Project:
-I am participating in the [Tractor Supply’s “Life out Here” AI/ML Hackathon](https://www.hackerearth.com/challenges/hackathon/tractor-supply-hackathon/) with my fellow bootcamp graduates:
+I am participating in the [Tractor Supply’s “Life out Here” AI/ML Hackathon](https://www.hackerearth.com/challenges/hackathon/tractor-supply-hackathon/) 🚜 with my fellow bootcamp graduates:
 * [Tony Bai](https://github.com/tm4gic)
 * [Mia Fryer](https://github.com/miazfryer)
 * [Eddie Lin](https://github.com/RedDragonfruit)
 * [Ian Sharff](https://github.com/iansharff)
 
-The current [project](https://github.com/arthursjkim/tsc_pricing_optimization) is on optimizing price for the company's products using time series model.
+The current [project](https://github.com/arthursjkim/tsc_pricing_optimization) is on optimizing price for the company's products to maximize gross margin dollars 💲.
 
 ### Skills I am Improving or Learning:
 * SQL
