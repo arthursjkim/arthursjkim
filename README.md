@@ -20,7 +20,6 @@ I am participating in the [Tractor Supply’s “Life out Here” AI/ML Hackatho
 The current [project](https://github.com/arthursjkim/tsc_pricing_optimization) is on optimizing price for the company's products to maximize gross margin dollars 💲.
 
 ### Skills I am Improving or Learning:
-* SQL
 * Tableau
 
 ## Previous Project Highlights
