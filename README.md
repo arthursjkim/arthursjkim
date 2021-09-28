@@ -11,13 +11,9 @@ Some of my technical skills include:
 
 ## Currently... 
 ### Project:
-I am participating in the [Tractor Supply’s “Life out Here” AI/ML Hackathon](https://www.hackerearth.com/challenges/hackathon/tractor-supply-hackathon/) 🚜 with my fellow bootcamp graduates:
-* [Tony Bai](https://github.com/tm4gic)
-* [Mia Fryer](https://github.com/miazfryer)
-* [Eddie Lin](https://github.com/RedDragonfruit)
-* [Ian Sharff](https://github.com/iansharff)
+I am participating in the [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview) 🌬️.
 
-The current [project](https://github.com/arthursjkim/tsc_pricing_optimization) is on optimizing price for the company's products to maximize gross margin dollars 💲.
+The current [project](https://github.com/arthursjkim/ventilator_pressure_prediction) is on predicting the ventilator pressure of patients based on lung attributes.
 
 ### Skills I am Improving or Learning:
 * Tableau
