@@ -34,4 +34,4 @@ __Telecommunication Firm’s Customer Churn__ | [Repo](https://github.com/arthur
 ## Checkout Out My... 
 * [LinkedIn](https://www.linkedin.com/in/arthursjkim/)
 * [Blog](arthursjkim.medium.com)
-* [Twtitter](https://twitter.com/ArthurSJKim)
+* [Twitter](https://twitter.com/ArthurSJKim)
