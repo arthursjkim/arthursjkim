@@ -8,15 +8,14 @@ Some of my technical skills include:
 * SQL 🗒️
 * NumPy 💯
 * Scikit-Learn ⚙️
+* Power BI 📊
 
 ## Currently... 
 ### Project:
-I am participating in the [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/c/ventilator-pressure-prediction/overview) 🌬️.
-
-The current [project](https://github.com/arthursjkim/ventilator_pressure_prediction) is on predicting the ventilator pressure of patients based on lung attributes.
+* TBD
 
 ### Skills I am Improving or Learning:
-* Tableau
+* Power BI
 
 ## Previous Project Highlights
 __Hospital ICU Readmissions__ | [Repo](https://github.com/arthursjkim/hospital_readmissions_nlp)
