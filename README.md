@@ -18,9 +18,6 @@ Some of my technical skills include:
 * Power BI
 
 ## Previous Project Highlights
-__Hospital ICU Readmissions__ | [Repo](https://github.com/arthursjkim/hospital_readmissions_nlp)
-
-🚑 Classified patients who are likely to be readmitted to the hospital ICU within 30 days post discharge based on discharge notes and patient data including demographics and diagnoses
 
 __Pneumonia Lung X-Ray Image Classification__ | [Repo](https://github.com/arthursjkim/pneumonia_x-ray_classification)
 
